@@ -11,8 +11,8 @@
         "384": "icon-384x384.png",
         "512": "icon-512x512.png"
     },
-    "theme_color": "purple",
-    "background_color": "black",
+    "theme_color": "#dddddd",
+    "background_color": "#dddddd",
     "start_url": "/transaction",
     "display": "standalone"
 }
